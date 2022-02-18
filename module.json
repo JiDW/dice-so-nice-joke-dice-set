@@ -1,0 +1,22 @@
+{
+	"name": "dice-so-nice-custom-set-template",
+	"title": "Dice So Nice! Custom Set template",
+	"description": "A template for a custom set of dice",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.8.9",
+	"compatibleCoreVersion" : "9",
+	"authors": [
+		{
+			"name": "JDW",
+			"discord": "JDW#6422",
+			"reddit":"u/jidewe",
+			"ko-fi":"jdwfvtt"
+		}
+	],
+	"esmodules": [
+		"./diceset.js"
+	],
+	"url": "",
+	"manifest": "",
+	"download": ""
+}
